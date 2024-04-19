@@ -20,7 +20,7 @@
 ### :coffee: Hello!
 - I'm currently enrolled in a Systems Engineering degree in Argentina.
 - [Linux coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) is the way. Period. :pray:
-- :heart: 🐈: 
+- :heart: 🐈
 
 ---
 
