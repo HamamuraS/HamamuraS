@@ -12,6 +12,10 @@
   </div>
   
 </div>
+  
+> _"The laypeople believe that the economy consists of peasants growing wheat, workers making clothes, and customers buying bread and underwear. But the experts view the economy as a mechanism for gathering data about desires and capabilities, and transforming this data into decisions._ "
+> 
+> \- Yuval Noah Harari
 
 ---
 
@@ -20,10 +24,6 @@
   ![img](./img/progress-1C-2024.png)
 - I think [Linux coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) is the way :pray:
 - I :heart: 🐈 and :beer:
-
-> _"The laypeople believe that the economy consists of peasants growing wheat, workers making clothes, and customers buying bread and underwear. But the experts view the economy as a mechanism for gathering data about desires and capabilities, and transforming this data into decisions._ "
-> 
-> \- Yuval Noah Harari
 
 ---
 
